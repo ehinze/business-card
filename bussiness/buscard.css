@@ -1,0 +1,15 @@
+body{
+    margin: 20px;
+    text-align: center;
+}
+.main{
+    border: 2px solid black;
+    display: flex;
+    justify-content: space-evenly;
+    width: 400px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: rgb(255, 240, 220);
+    border-radius: 5px;
+
+}
